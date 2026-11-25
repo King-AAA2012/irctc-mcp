@@ -1,0 +1,1445 @@
+[
+  {
+    "code": "ADI",
+    "name": "Ahmedabad Junction",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "BRC",
+    "name": "Ahmedabad Junction",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "ST",
+    "name": "Surat Junction",
+    "city": "Surat",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "SRT",
+    "name": "Rajkot Junction",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "JAM",
+    "name": "Jamnagar",
+    "city": "Jamnagar",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "PBR",
+    "name": "Porbandar",
+    "city": "Porbandar",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "GJN",
+    "name": "Gandhidham Junction",
+    "city": "Gandhidham",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "BHU",
+    "name": "Bhavnagar",
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "VAPI",
+    "name": "Vapi",
+    "city": "Vapi",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "BL",
+    "name": "Valsad",
+    "city": "Valsad",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "MMCT",
+    "name": "Mumbai Central",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "BCT",
+    "name": "Mumbai Central",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "LTT",
+    "name": "Lokmanya Tilak Terminus",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "CST",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway",
+    "aliases": ["CSMT", "CS"]
+  },
+  {
+    "code": "BD",
+    "name": "Bhusaval Junction",
+    "city": "Bhusaval",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "KPN",
+    "name": "Kalyan Junction",
+    "city": "Kalyan",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "PNVL",
+    "name": "Panvel",
+    "city": "Panvel",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "NGP",
+    "name": "Nagpur Junction",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "zone": "Central Railway"
+  },
+  {
+    "code": "BSL",
+    "name": "Nashik Road",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "PUNE",
+    "name": "Pune Junction",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "zone": "Central Railway"
+  },
+  {
+    "code": "KOLH",
+    "name": "Kolhapur",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "zone": "Central Railway"
+  },
+  {
+    "code": "TMI",
+    "name": "Thane Junction",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zone": "Central Railway"
+  },
+  {
+    "code": "SPP",
+    "name": "Sangli",
+    "city": "Sangli",
+    "state": "Maharashtra",
+    "zone": "Central Railway"
+  },
+  {
+    "code": "KJM",
+    "name": "Karad",
+    "city": "Karad",
+    "state": "Maharashtra",
+    "zone": "Central Railway"
+  },
+  {
+    "code": "ADVI",
+    "name": "Ahmedabad Cantonment",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "GTA",
+    "name": "Godhra Junction",
+    "city": "Godhra",
+    "state": "Gujarat",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "BVI",
+    "name": "Borivali",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "DR",
+    "name": "Dadar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "HLT",
+    "name": "Byculla",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zone": "Western Railway"
+  },
+  {
+    "code": "HYB",
+    "name": "Hyderabad Deccan",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "SC",
+    "name": "Secunderabad Junction",
+    "city": "Secunderabad",
+    "state": "Telangana",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "KCG",
+    "name": "Kacheguda",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "BMT",
+    "name": "Begumpet",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "LPI",
+    "name": "Lingampalli",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "TPTY",
+    "name": "Tirupati",
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "VGLP",
+    "name": "Vijayawada Junction",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "GDR",
+    "name": "Guntur Junction",
+    "city": "Guntur",
+    "state": "Andhra Pradesh",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "OGL",
+    "name": "Ongole",
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "zone": "South Central Railway"
+  },
+  {
+    "code": "TIRU",
+    "name": "Tiruchirappalli Junction",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "MS",
+    "name": "Chennai Central",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "MSB",
+    "name": "Chennai Beach",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "KZJ",
+    "name": "Chennai Egmore",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "MV",
+    "name": "Madurai Junction",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "MDU",
+    "name": "Madurai Junction",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "CBE",
+    "name": "Coimbatore Junction",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "ED",
+    "name": "Erode Junction",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "CJ",
+    "name": "Thanjavur",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "TIRU2",
+    "name": "Tirunelveli Junction",
+    "city": "Tirunelveli",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "TIRU3",
+    "name": "Tiruvannamalai",
+    "city": "Tiruvannamalai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "CGL",
+    "name": "Chengalpattu",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "LJN",
+    "name": "Lucknow Junction",
+    "city": "Lucknow",
+    "state": "UP",
+    "zone": "North Eastern Railway"
+  },
+  {
+    "code": "LKO",
+    "name": "Lucknow",
+    "city": "Lucknow",
+    "state": "UP",
+    "zone": "North Eastern Railway"
+  },
+  {
+    "code": "BSH",
+    "name": "Bareilly Junction",
+    "city": "Bareilly",
+    "state": "UP",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "SPJ",
+    "name": "Saharanpur Junction",
+    "city": "Saharanpur",
+    "state": "UP",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "MB",
+    "name": "Moradabad Junction",
+    "city": "Moradabad",
+    "state": "UP",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "KGM",
+    "name": "Kashipur",
+    "city": "Kashipur",
+    "state": "UP",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "HJ",
+    "name": "Hathras Junction",
+    "city": "Hathras",
+    "state": "UP",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "JP",
+    "name": "Jaipur Junction",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "AII",
+    "name": "Ajmer Junction",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "CTJ",
+    "name": "Chittaurgarh",
+    "city": "Chittaurgarh",
+    "state": "Rajasthan",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "FL",
+    "name": "Firozpur",
+    "city": "Firozpur",
+    "state": "Punjab",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "LD",
+    "name": "Ludhiana",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "ASR",
+    "name": "Amritsar Junction",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "FZR",
+    "name": "Firozpur Junction",
+    "city": "Firozpur",
+    "state": "Punjab",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "HSR",
+    "name": "Hissar",
+    "city": "Hissar",
+    "state": "Haryana",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "GZB",
+    "name": "Ghaziabad",
+    "city": "Ghaziabad",
+    "state": "UP",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "TDL",
+    "name": "Tundla Junction",
+    "city": "Tundla",
+    "state": "UP",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "AGC",
+    "name": "Agra Junction",
+    "city": "Agra",
+    "state": "UP",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "AF",
+    "name": "Agra Fort",
+    "city": "Agra",
+    "state": "UP",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "NDLS",
+    "name": "New Delhi Railway Station",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "DLI",
+    "name": "Delhi Junction",
+    "city": "Delhi",
+    "state": "Delhi",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "DSJ",
+    "name": "Dwarka",
+    "city": "Delhi",
+    "state": "Delhi",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "NZ",
+    "name": "Nizamuddin",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "ANVT",
+    "name": "Anand Vihar Terminal",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "HJS",
+    "name": "Hazrat Nizamuddin",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "CSJ",
+    "name": "Delhi Sarai Rohilla",
+    "city": "Delhi",
+    "state": "Delhi",
+    "zone": "North Western Railway"
+  },
+  {
+    "code": "SSB",
+    "name": "Saket",
+    "city": "Delhi",
+    "state": "Delhi",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "RNC",
+    "name": "Ranchi Junction",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "ASN",
+    "name": "Asansol Junction",
+    "city": "Asansol",
+    "state": "Jharkhand",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "DGR",
+    "name": "Durgapur",
+    "city": "Durgapur",
+    "state": "Jharkhand",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "BWN",
+    "name": "Bardhaman",
+    "city": "Bardhaman",
+    "state": "Jharkhand",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "HWH",
+    "name": "Howrah Junction",
+    "city": "Howrah",
+    "state": "West Bengal",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "SDIH",
+    "name": "Sealdah Junction",
+    "city": "Sealdah",
+    "state": "West Bengal",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "KGP",
+    "name": "Kharagpur Junction",
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "NJP",
+    "name": "New Jalpaiguri Junction",
+    "city": "New Jalpaiguri",
+    "state": "West Bengal",
+    "zone": "North Eastern Railway"
+  },
+  {
+    "code": "BXT",
+    "name": "Balurghat",
+    "city": "Balurghat",
+    "state": "West Bengal",
+    "zone": "North Eastern Railway"
+  },
+  {
+    "code": "MLDT",
+    "name": "Malda Junction",
+    "city": "Malda",
+    "state": "West Bengal",
+    "zone": "North Eastern Railway"
+  },
+  {
+    "code": "BHP",
+    "name": "Bolpur",
+    "city": "Bolpur",
+    "state": "West Bengal",
+    "zone": "South Eastern Railway"
+  },
+  {
+    "code": "BG",
+    "name": "Bangalore City",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "YPR",
+    "name": "Yeshvantpur Junction",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "SBC",
+    "name": "Bangalore Cantt",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "MYS",
+    "name": "Mysuru Junction",
+    "city": "Mysore",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "VJR",
+    "name": "Vijayapura",
+    "city": "Bijapur",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "BJ",
+    "name": "Bellary Junction",
+    "city": "Bellary",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "UBL",
+    "name": "Belagavi",
+    "city": "Belagavi",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "BDY",
+    "name": "Bidar Junction",
+    "city": "Bidar",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "BDK",
+    "name": "Barkur",
+    "city": "Barkur",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "UD",
+    "name": "Udupi",
+    "city": "Udupi",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "KUD",
+    "name": "Kundapura",
+    "city": "Kundapura",
+    "state": "Karnataka",
+    "zone": "Southern Railway"
+  },
+  {
+    "code": "GWL",
+    "name": "Gwalior Junction",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "JHS",
+    "name": "Jhansi Junction",
+    "city": "Jhansi",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "IN",
+    "name": "Indore Junction",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "JBP",
+    "name": "Jabalpur",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "ETW",
+    "name": "Etawah",
+    "city": "Etawah",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "INR",
+    "name": "Itarsi Junction",
+    "city": "Itarsi",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "KTE",
+    "name": "Katni Junction",
+    "city": "Katni",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL2",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL3",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL4",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL5",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL6",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL7",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL8",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL9",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL10",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL11",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL12",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL13",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL14",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL15",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL16",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL17",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL18",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL19",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL20",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL21",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL22",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL23",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL24",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL25",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL26",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL27",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL28",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL29",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL30",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL31",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL32",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL33",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL34",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL35",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL36",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL37",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL38",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL39",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL40",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL41",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL42",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL43",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL44",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL45",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL46",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL47",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL48",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL49",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL50",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL51",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL52",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL53",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL54",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL55",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL56",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL57",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL58",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL59",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL60",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL61",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL62",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL63",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL64",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL65",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL66",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL67",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL68",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL69",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL70",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL71",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL72",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL73",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL74",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL75",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL76",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL77",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL78",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL79",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL80",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL81",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL82",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL83",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL84",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL85",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL86",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL87",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL88",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL89",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL90",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL91",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL92",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL93",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL94",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL95",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL96",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL97",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL98",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL99",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  },
+  {
+    "code": "BPL100",
+    "name": "Bhopal Junction",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "zone": "North Central Railway"
+  }
+]

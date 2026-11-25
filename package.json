@@ -1,0 +1,36 @@
+{
+  "name": "irctc-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Indian Railway data — station lookup (offline) and live train schedule / PNR status via IRCTC.",
+  "type": "module",
+  "bin": {
+    "irctc-mcp": "./server.js"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node scripts/test.mjs"
+  },
+  "files": [
+    "server.js",
+    "lib/",
+    "data/"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "irctc",
+    "indian-railways",
+    "train",
+    "pnr",
+    "station"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2"
+  }
+}
